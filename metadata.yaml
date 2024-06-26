@@ -1,0 +1,30 @@
+_repo: The-geography-and-geology-of-south-eastern-Egypt_73879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ball, John
+    birthdate: 1818
+    deathdate: 1889
+    gutenberg_agent_id: '46903'
+    url: http://www.gutenberg.org/2009/agents/46903
+    wikipedia: https://en.wikipedia.org/wiki/John_Ball_(naturalist)
+description: ''
+gutenberg_issued: '2024-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73879'
+language: en
+pgterms:marc904: https://archive.org/details/TheGeographyAndGeologyOfSouth-easternEgypt
+pgterms:marc905: 20240602232013ball
+pgterms:marc906: '1912'
+pgterms:marc907: EG
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by The Internet Archive/Ohio State University Library)
+publication_note: '  $aCairo :$bGovernment Press, $c1912.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The geography and geology of south-eastern Egypt
+url: http://www.gutenberg.org/ebooks/73879
